@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Social & Encrypted Comms",
+  "description": "An all-in-one platform fusing Instagram feeds, Snapchat ephemeral snaps & streaks, Discord communities & voice channels, with WebCrypto End-to-End Encryption and an exclusive Verified Badge system.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
